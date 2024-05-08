@@ -7,9 +7,9 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
+| 5.1.x   | :white_check_marhttps://github.com/aviatbet/Aviator-predictor-app/security/policyk: |
 | 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
+| 4.0.x   | :white_check_mhttps://github.com/aviatbet/Aviator-predictor-app/security/policyhttps://github.com/aviatbet/Aviator-predictor-app/security/policyark: |
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
